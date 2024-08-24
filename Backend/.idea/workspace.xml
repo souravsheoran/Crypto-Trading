@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e01c0262-4da6-4920-9e6a-e5e67805ac59" name="Changes" comment="Add payment gateway (Razorpay &amp; strip)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/sourav/modal/Coin.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kFsJWxPUW4mHGhBcW307IkE8cO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.TradingApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/parma/Projects/Crypto Trading/trading&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ankit.response" />
+      <recent name="com.ankit.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TradingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="trading" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sourav.TradingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18968.26" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18968.26" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e01c0262-4da6-4920-9e6a-e5e67805ac59" name="Changes" comment="" />
+      <created>1722890588460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722890588460</updated>
+      <workItem from="1722890590337" duration="1519000" />
+      <workItem from="1722948972713" duration="2973000" />
+      <workItem from="1722951977169" duration="22981000" />
+      <workItem from="1723117365881" duration="1701000" />
+      <workItem from="1723180407718" duration="6664000" />
+      <workItem from="1723217284131" duration="8738000" />
+      <workItem from="1723301276468" duration="13811000" />
+      <workItem from="1723348305621" duration="15852000" />
+      <workItem from="1723464533961" duration="13154000" />
+      <workItem from="1723541509233" duration="11465000" />
+      <workItem from="1723701926783" duration="3693000" />
+      <workItem from="1724334527555" duration="1834000" />
+      <workItem from="1724345121115" duration="1423000" />
+      <workItem from="1724389376115" duration="14401000" />
+      <workItem from="1724505460782" duration="416000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create two factor authentication and verification api">
+      <option name="closed" value="true" />
+      <created>1723223932508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723223932508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create forget password Api">
+      <option name="closed" value="true" />
+      <created>1723305331222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723305331222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Coin Api and use coingecko.com for trading coin data">
+      <option name="closed" value="true" />
+      <created>1723318247065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723318247065</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create order asset and wallet API">
+      <option name="closed" value="true" />
+      <created>1723477246466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723477246466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add a withdrawal API">
+      <option name="closed" value="true" />
+      <created>1723481003798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723481003798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create a Watchlist and store user payment details">
+      <option name="closed" value="true" />
+      <created>1723543893843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723543893843</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add payment gateway (Razorpay &amp; strip)">
+      <option name="closed" value="true" />
+      <created>1723567144024</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723567144024</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="fdfae903-7549-4d3d-93cb-15658a0d97f3" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="fdfae903-7549-4d3d-93cb-15658a0d97f3">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Create two factor authentication and verification api" />
+    <MESSAGE value="Create forget password Api" />
+    <MESSAGE value="Create Coin Api and use coingecko.com for trading coin data" />
+    <MESSAGE value="Create order asset and wallet API" />
+    <MESSAGE value="Add a withdrawal API" />
+    <MESSAGE value="Create a Watchlist and store user payment details" />
+    <MESSAGE value="Add payment gateway (Razorpay &amp; strip)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add payment gateway (Razorpay &amp; strip)" />
+  </component>
+</project>
