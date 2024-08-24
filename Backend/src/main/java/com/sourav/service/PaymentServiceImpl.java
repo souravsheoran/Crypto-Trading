@@ -82,55 +82,6 @@ public class PaymentServiceImpl implements PaymentService {
         return false;
     }
 
-//    @Override
-//    public PaymentResponse createRazorpayPaymentLink(User user, Long amount,Long orderId) throws RazorpayException {
-//
-//        Long Amount=amount*100;
-//
-//        try {
-//            RazorpayClient  razorpay = new RazorpayClient(apiKey, apiSecretKey);
-//
-//            //create a json object with payment link request parameters
-//            JSONObject paymentLinkRequest = new JSONObject();
-//            paymentLinkRequest.put("amount",amount);
-//            paymentLinkRequest.put("currency","INR");
-//
-//            //create a json object with the customer details
-//            JSONObject customer = new JSONObject();
-//            customer.put("name",user.getFullName());
-//
-//            customer.put("email",user.getEmail());
-//            paymentLinkRequest.put("customer",customer);
-//
-//            //create a json object with the notification settings
-//            JSONObject notify = new JSONObject();
-//            notify.put("email",true);
-//            paymentLinkRequest.put("notify",notify);
-//
-//            //Set the remainder settings
-//            paymentLinkRequest.put("remainder_enable",true);
-//
-//            //Set the callback url and method
-//            paymentLinkRequest.put("callback_url" , "http://localhost:8080/wallet?order_id="+ orderId);
-//            paymentLinkRequest.put("callback_method","get");
-//
-//            //Create the payment link using the paymentLink.create() method
-//            PaymentLink payment = razorpay.paymentLink.create(paymentLinkRequest);
-//
-//            String paymentLinkId = payment.get("id");
-//            String paymentLinkUrl = payment.get("short_url");
-//
-//            PaymentResponse res = new PaymentResponse();
-//            res.setPayment_url(paymentLinkUrl);
-//
-//            return res;
-//
-//        } catch (RazorpayException e) {
-//            System.out.println("Error creating payment link: " + e.getMessage());
-//            throw new RazorpayException(e.getMessage());
-//        }
-//    }
-
     @Override
     public PaymentResponse createRazorpayPaymentLink(User user, Long amount, Long orderId) throws RazorpayException {
 
